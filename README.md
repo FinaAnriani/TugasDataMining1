@@ -14,6 +14,7 @@ Tujuan Bisnis:
 •	Mengoptimalkan strategi marketing online store.
 
 
+
 Pertanyaan Bisnis:
 
 •	Apa faktor demografis (usia, jenis kelamin, lokasi) yang mempengaruhi pembelian di online store?
@@ -21,6 +22,7 @@ Pertanyaan Bisnis:
 •	Apa faktor perilaku (kunjungan website, klik) yang mempengaruhi pembelian di online store?
 
 •	Bagaimana strategi marketing online store dapat dioptimalkan berdasarkan faktor-faktor tersebut?
+
 
 
 Analisis Situasi:
@@ -32,6 +34,7 @@ Analisis Situasi:
 •	Kebutuhan untuk memahami perilaku konsumen online.
 
 
+
 Data Mining Goals:
 
 •	Mengidentifikasi faktor-faktor yang mempengaruhi seseorang untuk berbelanja di online store.
@@ -39,6 +42,7 @@ Data Mining Goals:
 •	Membangun model prediktif untuk memprediksi kemungkinan pembelian di online store.
 
 •	Memberikan rekomendasi untuk optimasi strategi marketing online store.
+
 
 
 Project Plan:
@@ -56,6 +60,7 @@ Project Plan:
 11.	Deployment: Menerapkan model pada data baru untuk memprediksi kemungkinan pembelian.
     
 13.	Communication: Mengkomunikasikan hasil analisis dan rekomendasi kepada pemangku kepentingan.
+
     
    
 Pemangku Kepentingan:
@@ -65,6 +70,7 @@ Pemangku Kepentingan:
 •	Tim Produk: Bertanggung jawab untuk pengembangan produk dan penawaran online store.
 
 •	Tim Operasional: Bertanggung jawab untuk pengelolaan website dan infrastruktur online store.
+
 
 
 Kriteria Keberhasilan:
