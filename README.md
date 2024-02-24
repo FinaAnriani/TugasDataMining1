@@ -13,7 +13,7 @@ Tujuan Bisnis:
 
 •	Mengoptimalkan strategi marketing online store.
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Pertanyaan Bisnis:
 
@@ -23,7 +23,7 @@ Pertanyaan Bisnis:
 
 •	Bagaimana strategi marketing online store dapat dioptimalkan berdasarkan faktor-faktor tersebut?
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Analisis Situasi:
 
@@ -33,7 +33,7 @@ Analisis Situasi:
 
 •	Kebutuhan untuk memahami perilaku konsumen online.
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Data Mining Goals:
 
@@ -43,25 +43,25 @@ Data Mining Goals:
 
 •	Memberikan rekomendasi untuk optimasi strategi marketing online store.
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Project Plan:
 
 1.	Data Collection: Mengumpulkan data dari berbagai sumber, seperti website online store, database pelanggan, dan survei online.
    
-3.	Data Preparation: Membersihkan data, menangani missing values, dan melakukan transformasi data.
+2.	Data Preparation: Membersihkan data, menangani missing values, dan melakukan transformasi data.
    
-5.	Data Exploration: Menganalisis data untuk memahami pola dan tren.
+3.	Data Exploration: Menganalisis data untuk memahami pola dan tren.
    
-7.	Model Building: Membangun model prediktif menggunakan algoritma data mining yang sesuai.
+4.	Model Building: Membangun model prediktif menggunakan algoritma data mining yang sesuai.
    
-9.	Model Evaluation: Mengevaluasi kinerja model dan memastikan model tidak mengalami overfitting.
+5.	Model Evaluation: Mengevaluasi kinerja model dan memastikan model tidak mengalami overfitting.
     
-11.	Deployment: Menerapkan model pada data baru untuk memprediksi kemungkinan pembelian.
+6.	Deployment: Menerapkan model pada data baru untuk memprediksi kemungkinan pembelian.
     
-13.	Communication: Mengkomunikasikan hasil analisis dan rekomendasi kepada pemangku kepentingan.
+7.	Communication: Mengkomunikasikan hasil analisis dan rekomendasi kepada pemangku kepentingan.
 
-    
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
    
 Pemangku Kepentingan:
 
@@ -71,7 +71,7 @@ Pemangku Kepentingan:
 
 •	Tim Operasional: Bertanggung jawab untuk pengelolaan website dan infrastruktur online store.
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Kriteria Keberhasilan:
 
