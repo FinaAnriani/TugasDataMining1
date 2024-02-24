@@ -77,6 +77,4 @@ Kriteria Keberhasilan:
 
 •	Meningkatkan tingkat konversi pembelian di online store.
 
-•	Meningkatkan ROI (Return on Investment) dari strategi marketing online store.
-
 •	Meningkatkan kepuasan pelanggan online store.
