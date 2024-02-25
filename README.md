@@ -1,8 +1,8 @@
-Nama : Fina Anriani 
+## Nama : Fina Anriani 
 
-NIM : 2209116051
+## NIM : 2209116051
 
-Kelas : Sistem Informasi A 2022
+## Kelas : Sistem Informasi A 2022
 
 
-#Faktor - faktor yang Mempengaruhi Seseorang untuk Berbelanja di Online Store.
+# Studi Kasus : Faktor - faktor yang Mempengaruhi Seseorang untuk Berbelanja di Online Store.
